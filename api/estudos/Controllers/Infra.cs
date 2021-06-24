@@ -17,11 +17,11 @@ namespace estudos.Controllers
         [Route("dataatual")]
         public  IActionResult GetDataAtual()
         {
-            var stringConexao = "";
+            var stringConexao = new Conexao();
 
             var sql = "SELECT SYSDATE DATA FROM DUAL";
 
-            OracleConnection _oracleConnection = new OracleConnection(stringConexao);
+            OracleConnection _oracleConnection = new OracleConnection(stringConexao.sConexao);
 
             _oracleConnection.Open();
 
