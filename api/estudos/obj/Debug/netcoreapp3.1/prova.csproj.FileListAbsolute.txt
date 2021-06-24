@@ -1,0 +1,354 @@
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\prova.exe
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.csprojAssemblyReference.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfoInputs.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfo.cs
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\staticwebassets\prova.StaticWebAssets.Manifest.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\staticwebassets\prova.StaticWebAssets.xml
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\prova.deps.json
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.json
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.dev.json
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\prova.dll
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\prova.pdb
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.csproj.CopyComplete
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.dll
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.pdb
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\obj\Debug\netcoreapp3.1\prova.genruntimeconfig.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\prova\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\prova.exe
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\prova.deps.json
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.json
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.dev.json
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\prova.dll
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\prova.pdb
+C:\Users\Lucas Silva\Desktop\prova\prova\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.csprojAssemblyReference.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfoInputs.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfo.cs
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.csproj.CopyComplete
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\staticwebassets\prova.StaticWebAssets.Manifest.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\staticwebassets\prova.StaticWebAssets.xml
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.dll
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.pdb
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\prova.genruntimeconfig.cache
+C:\Users\Lucas Silva\Desktop\prova\prova\obj\Debug\netcoreapp3.1\scopedcss\bundle\prova.styles.css
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\prova.exe
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\prova.deps.json
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.json
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.dev.json
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\prova.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\prova.pdb
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.csprojAssemblyReference.cache
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfoInputs.cache
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfo.cs
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.csproj.CoreCompileInputs.cache
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\staticwebassets\prova.StaticWebAssets.Manifest.cache
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\staticwebassets\prova.StaticWebAssets.xml
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\scopedcss\bundle\prova.styles.css
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.RazorTargetAssemblyInfo.cache
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.csproj.CopyComplete
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.pdb
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\obj\Debug\netcoreapp3.1\prova.genruntimeconfig.cache
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Candidato3\Desktop\candidato3\prova_programador\api\prova\bin\Debug\netcoreapp3.1\Dapper.Oracle.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.csprojAssemblyReference.cache
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfoInputs.cache
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfo.cs
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.csproj.CoreCompileInputs.cache
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.MvcApplicationPartsAssemblyInfo.cache
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.pdb
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\web.config
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\appsettings.json
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\prova.exe
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\prova.deps.json
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.json
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.dev.json
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\prova.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\prova.pdb
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Dapper.Oracle.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\staticwebassets\prova.StaticWebAssets.Manifest.cache
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\staticwebassets\prova.StaticWebAssets.xml
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\scopedcss\bundle\prova.styles.css
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.RazorTargetAssemblyInfo.cache
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.csproj.CopyComplete
+C:\pessoal\Estudos\Testes\candidato3\api\prova\obj\Debug\netcoreapp3.1\prova.genruntimeconfig.cache
