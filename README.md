@@ -1,5 +1,9 @@
 # Crud Utilizando .Net Core, Oracle 11g, Angular 11 e Bootstrap 3.3.7
 
+## Tela do CRUD
+
+![alt text](https://raw.githubusercontent.com/consule/FrontAndBackend/main/portal/src/assets/telaSistema.png)
+
 ## Criação da tabela
 
 `CREATE TABLE CC_CONTEUDO (
