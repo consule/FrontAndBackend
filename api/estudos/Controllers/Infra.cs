@@ -53,7 +53,7 @@ namespace estudos.Controllers
         {
             var stringConexao = new Conexao();
 
-            var sql = "SELECT * FROM CC_CONTEUDO WHERE TITULO LIKE '%"+titulo+"%'";
+            var sql = "SELECT * FROM CC_CONTEUDO WHERE TITULO LIKE '%"+titulo.ToUpper()+"%'";
 
             OracleConnection _oracleConnection = new OracleConnection(stringConexao.sConexao);
 
@@ -85,7 +85,7 @@ namespace estudos.Controllers
         {
             var stringConexao = new Conexao();
 
-            var sql = "INSERT INTO CC_CONTEUDO (TITULO, SUBTITULO, DATAPUBLICACAO) VALUES ('"+conteudo.titulo+"','"+conteudo.subTitulo+"',TO_DATE('"+conteudo.dataPublicacao+"', 'DD/MM/YYYY HH24:MI:SS'))";
+            var sql = "INSERT INTO CC_CONTEUDO (TITULO, SUBTITULO, DATAPUBLICACAO) VALUES ('"+conteudo.titulo.ToUpper()+"','"+conteudo.subTitulo.ToUpper()+"',TO_DATE('"+conteudo.dataPublicacao+"', 'DD/MM/YYYY HH24:MI:SS'))";
 
             OracleConnection _oracleConnection = new OracleConnection(stringConexao.sConexao);
 
@@ -108,7 +108,7 @@ namespace estudos.Controllers
         {
             var stringConexao = new Conexao();
 
-            var sql = "UPDATE CC_CONTEUDO SET TITULO = '"+conteudo.titulo+"', SUBTITULO = '"+conteudo.subTitulo+"', DATAPUBLICACAO = TO_DATE('"+conteudo.dataPublicacao+"', 'DD/MM/YYYY HH24:MI:SS') WHERE CODIGO_UNICO = "+codigo_unico+"";
+            var sql = "UPDATE CC_CONTEUDO SET TITULO = '"+conteudo.titulo.ToUpper()+"', SUBTITULO = '"+conteudo.subTitulo.ToUpper()+"', DATAPUBLICACAO = TO_DATE('"+conteudo.dataPublicacao+"', 'DD/MM/YYYY HH24:MI:SS') WHERE CODIGO_UNICO = "+codigo_unico+"";
 
             OracleConnection _oracleConnection = new OracleConnection(stringConexao.sConexao);
 
