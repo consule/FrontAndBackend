@@ -12,10 +12,10 @@
 <table class="table table-bordered">
   <thead>
     <tr>
-      <th>Firstname</th>
-      <th>Lastname</th>
-      <th>Email</th>
-      <th>Email</th>
+      <th>Codigo</th>
+      <th>Titulo</th>
+      <th>Subtitulo</th>
+      <th>Data publicação</th>
     </tr>
   </thead>
   <tbody>
@@ -23,12 +23,11 @@
       <td>{{ val.codigoUnico }}</td>
       <td>{{ val.titulo }}</td>
       <td>{{ val.subTitulo }}</td>
-      <td>{{ val.dataPublicacao | date:'dd/MM/YYYY' }} </td>
-      <td>
+      <td>{{ val.dataPublicacao | date: 'dd/MM/yyyy HH:mm' }} </td>
+      <td [width]=180>
         <button class="btn btn-danger" routerLink="delete/{{val.codigoUnico}}">Apagar</button>
-        <button class="btn btn-primary" routerLink="update/{{val.codigoUnico}}">Atualizar</button>
+        <button class="btn btn-primary pull-right" routerLink="update/{{val.codigoUnico}}">Atualizar</button>
       </td>
     </tr>
-
   </tbody>
 </table>

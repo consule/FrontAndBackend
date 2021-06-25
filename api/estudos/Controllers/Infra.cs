@@ -108,7 +108,7 @@ namespace estudos.Controllers
         {
             var stringConexao = new Conexao();
 
-            var sql = "UPDATE CC_CONTEUDO SET TITULO = '"+conteudo.titulo+"', SUBTITULO = '"+conteudo.subTitulo+"', DATAPUBLICACAO = '"+conteudo.dataPublicacao+"' WHERE CODIGO_UNICO = "+codigo_unico+"";
+            var sql = "UPDATE CC_CONTEUDO SET TITULO = '"+conteudo.titulo+"', SUBTITULO = '"+conteudo.subTitulo+"', DATAPUBLICACAO = TO_DATE('"+conteudo.dataPublicacao+"', 'DD/MM/YYYY HH24:MI:SS') WHERE CODIGO_UNICO = "+codigo_unico+"";
 
             OracleConnection _oracleConnection = new OracleConnection(stringConexao.sConexao);
 

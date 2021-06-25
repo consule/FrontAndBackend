@@ -21,7 +21,7 @@ export class ConteudoService {
   }
 
   getPorCodigoUnico(codigo_unico: number) : Observable<conteudoModel> {
-    return this.http.get<conteudoModel>(url+`/${codigo_unico}`);
+    return this.http.get<conteudoModel>(url+`/codigo_unico/${codigo_unico}`);
   }
 
   create(conteudo) : Observable<conteudoModel> {
@@ -29,7 +29,7 @@ export class ConteudoService {
   }
 
   update(conteudo, codigo_unico) : Observable<conteudoModel> {
-    return this.http.post<conteudoModel>(url+`/${codigo_unico}`, conteudo);
+    return this.http.put<conteudoModel>(url+`/${codigo_unico}`, conteudo);
   }
 
   delete(codigo_unico) : Observable<conteudoModel> {
