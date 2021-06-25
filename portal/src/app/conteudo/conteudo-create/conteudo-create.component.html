@@ -1,0 +1,19 @@
+<form>
+
+  <div class="form-group">
+    <label for="email">Titulo:</label>
+    <input  type="text" class="form-control" id="email" placeholder="Titulo" name="email" #titulo>
+  </div>
+
+  <div class="form-group">
+    <label for="email">Subtitulo:</label>
+    <input  type="text" class="form-control" id="email" placeholder="Subtitulo" name="email" #subtitulo>
+  </div>
+
+  <div class="form-group">
+    <label for="email">Conteúdo:</label>
+    <input  type="datetime-local" class="form-control" id="email" placeholder="Conteúdo" name="email" #conteudo>
+  </div>
+
+  <button  (click)="create(titulo.value, subtitulo.value, conteudo.value)" type="submit" class="btn btn-success">Postar</button>
+</form>

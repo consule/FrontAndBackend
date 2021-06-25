@@ -1,0 +1,34 @@
+<hr>
+<label for="">Busca por titulo</label>
+<input type="text" name="titulo" id="titulo" #titulo>
+<button (click)="getPorTitulo(titulo.value)">
+  Pesquisar
+</button>
+
+<button class="btn btn-success"  routerLink="create">
+  Criar
+</button>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Firstname</th>
+      <th>Lastname</th>
+      <th>Email</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let val of conteudoModel">
+      <td>{{ val.codigoUnico }}</td>
+      <td>{{ val.titulo }}</td>
+      <td>{{ val.subTitulo }}</td>
+      <td>{{ val.dataPublicacao | date:'dd/MM/YYYY' }} </td>
+      <td>
+        <button class="btn btn-danger" routerLink="delete/{{val.codigoUnico}}">Apagar</button>
+        <button class="btn btn-primary" routerLink="update/{{val.codigoUnico}}">Atualizar</button>
+      </td>
+    </tr>
+
+  </tbody>
+</table>

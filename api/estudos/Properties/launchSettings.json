@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/infra/dataatual",
+      "launchUrl": "api/infra/conteudo",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "estudos": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/infra/dataatual",
+      "launchUrl": "api/infra/conteudo",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

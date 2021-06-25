@@ -6,7 +6,7 @@
        CODIGO_UNICO NUMBER(10), 
        TITULO VARCHAR2(200), 
        SUBTITULO VARCHAR2(200),
-       CONTEUDO VARCHAR2(200)
+       DATAPUBLICACAO DATE
 );`
 
 ## Adicionando a chave primária
