@@ -1,4 +1,4 @@
-# Crud Utilizando Oracle 11g e Angular 11
+# Crud Utilizando .Net Core, Oracle 11g, Angular 11 e Bootstrap 3.3.7
 
 ## Criação da tabela
 
