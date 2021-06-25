@@ -1,1 +1,19 @@
-<p>conteudo-delete works!</p>
+<form *ngIf="modelConteudo">
+  <div class="form-group">
+    <label for="email">Titulo:</label>
+    <input [(ngModel)]="modelConteudo.titulo" type="text" readonly class="form-control" id="email" placeholder="Titulo" name="titulo" #titulo>
+  </div>
+
+  <div class="form-group">
+    <label for="email">Subtitulo:</label>
+    <input  [(ngModel)]="modelConteudo.subTitulo" type="text" readonly class="form-control" id="email" placeholder="Subtitulo" name="subTitulo" #subtitulo>
+  </div>
+
+  <div class="form-group">
+    <label for="email">Conteúdo:</label>
+    <input  [(ngModel)]="modelConteudo.dataPublicacao"  readonly type="datetime-local" class="form-control" id="email" placeholder="Conteúdo" name="email" #dataPublicacao>
+  </div>
+
+  <button  (click)="delete(titulo.value, subtitulo.value, dataPublicacao.value, codigo_unico)" type="submit" class="btn btn-danger">Apagar</button>
+
+</form>

@@ -1,7 +1,4 @@
 <form *ngIf="modelConteudo">
-
-  <p>{{ modelConteudo | json }}</p>
-
   <div class="form-group">
     <label for="email">Titulo:</label>
     <input [(ngModel)]="modelConteudo.titulo" type="text" class="form-control" id="email" placeholder="Titulo" name="titulo" #titulo>
@@ -18,4 +15,5 @@
   </div>
 
   <button  (click)="update(titulo.value, subtitulo.value, dataPublicacao.value, codigo_unico)" type="submit" class="btn btn-success">Postar</button>
+
 </form>
