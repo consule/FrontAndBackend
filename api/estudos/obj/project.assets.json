@@ -8744,11 +8744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\pessoal\\Estudos\\Testes\\c3\\api\\estudos\\estudos.csproj",
+      "projectUniqueName": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\estudos.csproj",
       "projectName": "estudos",
-      "projectPath": "C:\\pessoal\\Estudos\\Testes\\c3\\api\\estudos\\estudos.csproj",
+      "projectPath": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\estudos.csproj",
       "packagesPath": "C:\\Users\\001.cconsule\\.nuget\\packages\\",
-      "outputPath": "C:\\pessoal\\Estudos\\Testes\\c3\\api\\estudos\\obj\\",
+      "outputPath": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\001.cconsule\\AppData\\Roaming\\NuGet\\NuGet.Config",

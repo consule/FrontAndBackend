@@ -1,19 +1,19 @@
-<form *ngIf="modelConteudo">
+<form *ngIf="modelConteudo" [formGroup]="form">
   <div class="form-group">
     <label for="email">Titulo:</label>
-    <input [(ngModel)]="modelConteudo.titulo" type="text" class="form-control" id="email" placeholder="Titulo" name="titulo" #titulo>
+    <input formControlName="titulo" [(ngModel)]="modelConteudo.titulo" type="text" class="form-control" id="email" placeholder="Titulo" name="titulo" #titulo>
   </div>
 
   <div class="form-group">
     <label for="email">Subtitulo:</label>
-    <input  [(ngModel)]="modelConteudo.subTitulo" type="text" class="form-control" id="email" placeholder="Subtitulo" name="subTitulo" #subtitulo>
+    <input formControlName="subTitulo" [(ngModel)]="modelConteudo.subTitulo" type="text" class="form-control" id="email" placeholder="Subtitulo" name="subTitulo" #subtitulo>
   </div>
 
   <div class="form-group">
     <label for="email">Conteúdo:</label>
-    <input  [(ngModel)]="modelConteudo.dataPublicacao" type="datetime-local" class="form-control" id="email" placeholder="Conteúdo" name="email" #dataPublicacao>
+    <input formControlName="dataPublicacao" [(ngModel)]="modelConteudo.dataPublicacao" type="datetime-local" class="form-control" id="email" placeholder="Conteúdo" name="email" #dataPublicacao>
   </div>
 
-  <button  (click)="update(titulo.value, subtitulo.value, dataPublicacao.value, codigo_unico)" type="submit" class="btn btn-success">Postar</button>
+  <button [disabled]="!form.valid" (click)="update(titulo.value, subtitulo.value, dataPublicacao.value, codigo_unico)" type="submit" class="btn btn-success">Postar</button>
 
 </form>

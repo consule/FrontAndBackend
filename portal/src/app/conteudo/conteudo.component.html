@@ -1,13 +1,26 @@
 <hr>
-<label for="">Busca por titulo</label>
-<input class="form-control" type="text" name="titulo" id="titulo" #titulo>
-<button class="btn btn-default" (click)="getPorTitulo(titulo.value)">
-  Pesquisar
-</button>
 
-<button class="btn btn-success"  routerLink="create">
-  Criar
-</button>
+<form class="form-horizontal">
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="email">Pesquisa por Titulo:</label>
+    <div class="col-sm-10">
+      <input class="form-control" type="text" name="titulo" id="titulo" #titulo>
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="pwd"></label>
+    <div class="col-sm-5">          
+      <button class="btn btn-default form-control" (click)="getPorTitulo(titulo.value)">
+        Pesquisar
+      </button>
+    </div>
+    <div class="col-sm-5">          
+      <button class="btn btn-success form-control" routerLink="create">
+        Criar
+      </button>
+    </div>
+  </div>
+</form>
 
 <table class="table table-bordered">
   <thead>
