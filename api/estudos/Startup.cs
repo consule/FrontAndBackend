@@ -1,3 +1,4 @@
+using estudos.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -20,7 +21,7 @@ namespace estudos
         {
             services.AddControllers();
             services.AddCors();
-
+            services.AddTransient<IConteudoRepository, ConteudoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

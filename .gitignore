@@ -1,3 +1,4 @@
 api/.vs/estudos/config/applicationhost.config
 api/estudos/obj/
-api/estudos/Conexao.cs
+
+*.pdb
