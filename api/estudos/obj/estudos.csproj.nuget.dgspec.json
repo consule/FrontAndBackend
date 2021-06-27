@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\estudos.csproj": {}
+    "C:\\pessoal\\Estudos\\Testes\\c3_25062021_crud\\api\\estudos\\estudos.csproj": {}
   },
   "projects": {
-    "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\estudos.csproj": {
+    "C:\\pessoal\\Estudos\\Testes\\c3_25062021_crud\\api\\estudos\\estudos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\estudos.csproj",
+        "projectUniqueName": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_crud\\api\\estudos\\estudos.csproj",
         "projectName": "estudos",
-        "projectPath": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\estudos.csproj",
+        "projectPath": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_crud\\api\\estudos\\estudos.csproj",
         "packagesPath": "C:\\Users\\001.cconsule\\.nuget\\packages\\",
-        "outputPath": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\obj\\",
+        "outputPath": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_crud\\api\\estudos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\001.cconsule\\AppData\\Roaming\\NuGet\\NuGet.Config",

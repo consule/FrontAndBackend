@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qLWGW4QoP9cpMqWWJkgJ8teZqrdsz+/S/Ttb15L+3eWNnuz+jonEAQrRDu1jEWD/TYabXtOO7rQDBxDPHgrmw==",
+  "dgSpecHash": "ivNruS8dkGoBUCYYeRAVaZ5NQ2jKG2zmUUCcmN2eR2ahas0FR7MdEqtjFzy6GDWozbsujuzjFVGVBXSbLgiwGA==",
   "success": true,
-  "projectFilePath": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_clud\\api\\estudos\\estudos.csproj",
+  "projectFilePath": "C:\\pessoal\\Estudos\\Testes\\c3_25062021_crud\\api\\estudos\\estudos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\001.cconsule\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\001.cconsule\\.nuget\\packages\\dapper.oracle\\2.0.2\\dapper.oracle.2.0.2.nupkg.sha512",
